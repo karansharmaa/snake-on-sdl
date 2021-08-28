@@ -1,1 +1,2 @@
 C:\Users\karan\OneDrive\Desktop\SnakeGameProject1\SnakeGameProject1\SnakeGameProject1\Debug\Game.exe
+C:\Users\karan\OneDrive\Documents\GitHub\snake-on-sdl\sdlsnake\snakesdl\Debug\Game.exe
